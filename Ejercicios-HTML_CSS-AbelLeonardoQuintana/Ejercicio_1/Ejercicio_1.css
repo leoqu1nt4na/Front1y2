@@ -1,0 +1,24 @@
+.grande { 
+  font-size: 60px; 
+}
+
+.compartida {
+  color:mediumslateblue;
+}
+
+p {
+  font-size: 10px;
+}
+
+p.compartida {
+  font-weight:bold;
+}
+
+.texto {
+  color:crimson;
+}
+
+.borde {
+  border: 5px solid blue;
+  border-radius: 15px;
+}

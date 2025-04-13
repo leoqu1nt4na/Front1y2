@@ -1,0 +1,24 @@
+#fondo {
+   background-color: rgba(255,0,0,0.2);
+   width: 300px;
+   height: 200px;
+   border:3px solid black;
+  cursor:pointer;
+  border-style:dotted;
+}
+
+.medida-absoluta {
+  width: 400px;
+  font-size: 30px;
+  border: 10px orange solid;
+  border-style: double;
+  cursor:move;
+}
+
+.medida-relativa {
+  width: 15em;
+  font-size: 2em;
+  border: 0.4em lightblue solid;
+  cursor:not-allowed;
+  border-style: ridge;
+}
