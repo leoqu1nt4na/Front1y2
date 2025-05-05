@@ -72,11 +72,6 @@ const operacion = (nro1,nro2, callback) => {
  }
     )
 
-    
-    
-  
-
-
 
 //5
 let valor = 0;
